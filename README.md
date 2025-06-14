@@ -42,7 +42,7 @@ Ensure you have the following installed on your system:
 3. Click the `Delete` button to remove a task.
 
 ## Screenshots
-![ToDo List Screenshot](images/screenshot.png)
+![ToDo List Screenshot](screenshot.png.jpg)
 
 
 
